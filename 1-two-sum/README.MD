@@ -1,6 +1,6 @@
 # Two Sum Example
 
-This Go program demonstrates the Two Sum leetcode problem solution.
+This Go program demonstrates the [Two Sum](https://leetcode.com/problems/two-sum/) leetcode problem solution.
 
 ## Problem Description
 
@@ -11,25 +11,12 @@ You may assume that each input would have exactly one solution, and you may not 
 
 ## Usage
 
-Ensure you have Go installed on your system.
+To use this program, follow these steps:
 
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/konstantin-evo/leetcode-problem-solving.git
-    ```
-
-2. Navigate to the directory containing the code:
-
-    ```bash
-    cd ./1-two-sum
-    ```
-
-3. Run the program:
-
-    ```bash
-    go run main.go
-    ```
+1. Ensure you have Go installed on your system
+2. Clone this repository `git clone https://github.com/konstantin-evo/leetcode-problem-solving.git`
+3. Navigate to the directory containing the `main.go` file `cd ./1-two-sum`
+4. Run `go run main.go` to execute the program
 
 ## Algorithm Description
 
@@ -47,8 +34,6 @@ algorithm:
 
 The program will run with a predefined example of `nums1 = [2, 7, 11, 15]` and `target1 = 9`. You can modify these
 values in the `main` function of `main.go` to test the program with different inputs.
-
-## Markdown table for your example:
 
 | Step | Description                          | Value                              |
 |------|--------------------------------------|------------------------------------|
