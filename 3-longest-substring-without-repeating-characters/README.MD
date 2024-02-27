@@ -1,4 +1,4 @@
-# Add Two Numbers
+# The Longest Substring
 
 This Go program demonstrates the
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
